@@ -4,13 +4,17 @@
 
 ## Grad-CAM & CAM
 
-### 해당 프로젝트는 main문을 실행하였을 때 1,2,3을 선택하여 
-- VGG19(1) ResNet18(2) ResNet(34)
-- 하나의 모델을 선택하여 
+### Main 실행시 하나의 정수 입력을 받음. 
+1. VGG19
+2. ResNet18
+3. ResNet
+
+### 선택한 모델로 동작하여 아래와 같은 결과를 얻을 수 있다.
  1. CAM
  2. Grad-CAM
  3. Backprop_img
  4. Backprop_img + Grad-CAM
  5. GuidedBackprop_img
  6. GuidedBackprop_img + Grad-CAM
-- 을 얻을 수 있다.
+
+### 자세한 사항은 다음 에서 얻을 수 있다.
