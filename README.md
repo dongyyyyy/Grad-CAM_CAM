@@ -8,17 +8,17 @@
 
 ### 작업 환경
 
-#### - Pytorch = 1.3
+#### - Pytorch : 1.3
 
-#### - CUDNN = 7.6.5
+#### - CUDNN : 7.6.5
 
-#### - CUDA Toolkit = 10.1
+#### - CUDA Toolkit : 10.1
 
 ### 필요라이브러리
 
-#### - opencv(cv2) = pip install opencv-python
-#### - numpy - conda install numpy
-#### - torchsummary(필수X) - pip install torchsummary
+#### - opencv(cv2) : pip install opencv-python
+#### - numpy : conda install numpy
+#### - torchsummary(필수X) : pip install torchsummary
 
 ---
 
