@@ -1,8 +1,26 @@
-# Grad-CAM_CAM
+# Grad-CAM_CAM - pytorch
 
 ---
 
 ## Grad-CAM & CAM
+
+---
+
+### 작업 환경
+
+#### - Pytorch = 1.3
+
+#### - CUDNN = 7.6.5
+
+#### - CUDA Toolkit = 10.1
+
+### 필요라이브러리
+
+#### - opencv(cv2) = pip install opencv-python
+#### - numpy - conda install numpy
+#### - torchsummary(필수X) - pip install torchsummary
+
+---
 
 ### Main 실행시 하나의 정수 입력을 받음. 
 1. VGG19
