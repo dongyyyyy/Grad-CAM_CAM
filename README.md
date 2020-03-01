@@ -36,4 +36,4 @@
  6. GuidedBackprop_img + Grad-CAM
 ### 각 결과는 해당 모델의 이름과 일치하는 폴더에 모두 저장된다.
 
-### 자세한 사항은 다음 에서 얻을 수 있다.
+### 자세한 사항은 [다음](https://dydeeplearning.tistory.com/10) 에서 얻을 수 있다.
